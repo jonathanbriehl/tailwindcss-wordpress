@@ -6,7 +6,7 @@ See the [notes below](#customization) for instructions on customizing the name o
 
 There are two different options depending on your preferences — a basic css file that imports the entire Tailwind CSS framework or using Laravel Mix with SASS to import and compile your css.
 
-### Using Basic CSS File
+## Using Basic CSS File
 
 Before starting, delete the following files:
 ```text
@@ -19,7 +19,7 @@ webpack.mix.js
 
 Then, rename `simple-style.css` to `style.css`. Uncomment either of the imports that you wish to you use. Start making something amazing.
 
-### Using Laravel Mix
+## Using Laravel Mix
 
 Before starting, delete `simple-style.css`.
 
@@ -31,7 +31,7 @@ While you're developing, run `npm run dev` to compile your css one time or `npm 
 
 When you're done, run `npm run prod`.
 
-### Customization
+## Customization
 
 Clone or download this repository, change its name to something else (like, say, `my-super-awesome-theme`), and then you'll need to do a six-step find and replace on the name in all the templates.
 
