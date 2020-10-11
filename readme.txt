@@ -1,5 +1,10 @@
 === tailwindcss_wordpress ===
 
+Theme Name: tailwindcss_wordpress
+Theme URI: http://underscores.me/
+Author: Jonathan Briehl
+Author URI: https://code.jonathanbriehl.com
+
 Contributors: automattic
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
@@ -14,7 +19,7 @@ A starter theme called tailwindcss_wordpress.
 
 == Description ==
 
-Blank WP theme with Tailwind CSS ready to go
+Blank WP theme with Tailwind CSS ready to go — simple or Laravel Mix with SASS
 
 == Installation ==
 

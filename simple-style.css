@@ -25,8 +25,11 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 /* Import the full Tailwind CSS */
 @import "css/tailwindcss-1.8.13.min.css";
 
-/* Uncomment to include the basic css that comes with the _s Underscores theme */
+/* Uncomment to include the basic css that comes with the _s theme */
 /* @import "css/wp-base.css"; */
+
+/* Uncomment to include the basic css for WooCommerce that comes with _s theme  */
+/* @import "css/woocommerce.css"; */
 
 /*
  * Your custom styles here.
