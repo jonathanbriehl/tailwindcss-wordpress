@@ -1,5 +1,5 @@
 /*!
-Theme Name: TailwindCSS WordPress
+Theme Name: tailwindcss_wordpress
 Theme URI: http://underscores.me/
 Author: Jonathan Briehl
 Author URI: https://code.jonathanbriehl.com
@@ -22,12 +22,11 @@ Normalizing styles have been helped along thanks to the fine work of
 Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 */
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Import the full Tailwind CSS */
+@import "css/tailwindcss-1.8.13.min.css";
 
 /* Uncomment to include the basic css that comes with the _s Underscores theme */
-// @import "css/wp-base.css";
+/* @import "css/wp-base.css"; */
 
 /*
  * Your custom styles here.
